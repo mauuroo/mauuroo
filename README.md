@@ -24,6 +24,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,r,linux,latex,github,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,r,linux,latex,git,github,vscode&perline=12" />
   </a>
 </p>
