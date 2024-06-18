@@ -20,7 +20,7 @@
   </a>
 </p>
 <br/><br/>
-<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
+<h2 align="center">Known technologies👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
