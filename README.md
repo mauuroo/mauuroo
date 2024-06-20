@@ -10,7 +10,7 @@
 <br/><br/><br/>
 <h2>Upcoming Projects</h2>
 <p>
-  <strong>Spydio</strong>
+  <strong>Spydio 🖥️🔉</strong>
 </p>
 <br/>
 <h3 align="center"> 
