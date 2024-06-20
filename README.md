@@ -7,6 +7,11 @@
     🔭 I’m currently studying at the <a href="https://usm.cl/" target="_blank">Universidad Tecnica Federico Santa Maria</a></p>
     🌱 I’m currently Learning R and Data Science</p>
     🤝 I’m available for projects</p>
+<br/><br/>
+<h2 align="center">Upcoming Projects</h2>
+<p align="center">
+  <strong>Spydio</strong> <img src="https://img.icons8.com/emoji/48/000000/video-game-console.png" width="30" height="30">
+</p>
 <br/>
 <h3 align="center"> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 
