@@ -8,9 +8,9 @@
     🌱 I’m currently Learning R and Data Science</p>
     🤝 I’m available for projects</p>
 <br/><br/>
-<h2 align="center">Upcoming Projects</h2>
-<p align="center">
-  <strong>Spydio</strong> <img src="https://img.icons8.com/emoji/48/000000/video-game-console.png" width="30" height="30">
+<h2>Upcoming Projects</h2>
+<p>
+  <strong>Spydio 🖥️🔉</strong>
 </p>
 <br/>
 <h3 align="center"> 
