@@ -3,15 +3,13 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="jpg" src="https://i.imgur.com/nudyS9F.jpg">
 </a>
-  <br/><br/>
-    🔭 I’m currently studying at the <a href="https://usm.cl/" target="_blank">Universidad Tecnica Federico Santa Maria</a></p>
-    🌱 I’m currently Learning R and Data Science</p>
-    🤝 I’m available for projects</p>
+<br/><br/>
+🔭 I’m currently studying at the <a href="https://usm.cl/" target="_blank">Universidad Tecnica Federico Santa Maria</a></p>
+🌱 I’m currently Learning R and Data Science</p>
+🤝 I’m available for projects</p>
 <br/><br/>
 <h2>Upcoming Projects</h2>
-<p>
-  <strong>Spydio 🖥️🔉</strong>
-</p>
+<p><strong>Spydio</strong></p>
 <br/>
 <h3 align="center"> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 
