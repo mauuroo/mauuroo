@@ -7,7 +7,7 @@
     🔭 I’m currently studying at the <a href="https://usm.cl/" target="_blank">Universidad Tecnica Federico Santa Maria</a></p>
     🌱 I’m currently Learning R and Data Science</p>
     🤝 I’m available for projects</p>
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 <h3 align="center">
   Upcoming Projects
 </h3>
