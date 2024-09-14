@@ -8,11 +8,15 @@
     🌱 I’m currently Learning R and Data Science</p>
 <br/><br/><br/><br/><br/><br/><br/>
 <h2 align="center">
-  Project in Development
+  Projects in Development
 </h2>
-<p align="center">
-  <strong>Spydio 🖥️🔉</strong>
-</p>
+<div align="center">
+  <ul style="list-style-position: inside;">
+    <li><strong>Spydio 🖥️🔉</strong></li>
+    <li><strong>GreenPyMind 🌱🌡️</strong></li>
+  </ul>
+</div>
+
 <br/>
 <h3 align="center"> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 
