@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋, I'm Mauricio Fernández</h1>
 <h3 align="center">A programmer in development from Chile</h3>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="350" width="350" alt="jpg" src="https://i.imgur.com/nudyS9F.jpg">
+  <img align="right" top="500" height="350" width="350" alt="jpg" src="https://www.todoenconce.cl/imagenes-eventos/upload/imagenes-pagina/todoenconce/447/67/grande/52131.jpg">
 </a>
   <br/><br/><br/><br/>
     🔭 I’m currently studying at the <a href="https://usm.cl/" target="_blank">Universidad Tecnica Federico Santa Maria</a></p>
