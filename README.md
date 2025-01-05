@@ -6,14 +6,26 @@
   <br/><br/><br/><br/>
     🔭 I’m currently studying at the <a href="https://usm.cl/" target="_blank">Universidad Tecnica Federico Santa Maria</a></p>
     🌱 I’m currently Learning R and Data Science</p>
+    
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 <h2 align="center">
   Projects in Development
 </h2>
 <div align="center">
   <ul style="list-style-position: inside;">
     <li><strong>Spydio 🖥️🔉</strong></li>
-    <li><strong>GreenPyMind 🌱🌡️</strong></li>
+  </ul>
+</div>
+
+<br/><br/>
+
+<h2 align="center">
+  Completed Projects
+</h2>
+<div align="center">
+    <ul style="list-style-position: inside;">
+    <li><strong><a href="https://greenpymind.com">GreenPyMind 🌡️🌱</a></strong></li>
   </ul>
 </div>
 
