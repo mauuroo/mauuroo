@@ -1,11 +1,10 @@
-<h1 align="center">Hi There👋, I'm Mauricio Fernández</h1>
-<h3 align="center">A programmer in development from Chile</h3>
+<h1 align="center">Hi There</h1>
 <a target="_blank" align="center">
   <img align="right" top="500" height="350" width="350" alt="jpg" src="https://www.todoenconce.cl/imagenes-eventos/upload/imagenes-pagina/todoenconce/447/67/grande/52131.jpg">
 </a>
   <br/><br/><br/><br/>
     🔭 I’m currently studying at the <a href="https://usm.cl/" target="_blank">Universidad Tecnica Federico Santa Maria</a></p>
-    🌱 I’m currently Learning R and Data Science</p>
+    🌱 I’m currently Learning Data Science and Asynchronous Programming</p>
     
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
@@ -15,6 +14,7 @@
 <div align="center">
   <ul style="list-style-position: inside;">
     <li><strong>Spydio 🖥️🔉</strong></li>
+    <li><strong>ArgosUSM 🐙🛡️</strong></li>
   </ul>
 </div>
 
@@ -34,6 +34,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,cpp,django,postgres,html,css,linux,latex,git&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,r,c,cpp,java,django,postgres,html,css,linux,latex,git&perline=12" />
   </a>
 </p>
