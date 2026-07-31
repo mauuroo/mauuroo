@@ -12,10 +12,6 @@
   Projects in Development
 </h2>
 <div align="center">
-  <ul style="list-style-position: inside;">
-    <li><strong>Spydio 🖥️🔉</strong></li>
-    <li><strong>ArgosUSM 🐙🛡️</strong></li>
-  </ul>
 </div>
 
 <br/><br/>
@@ -25,13 +21,14 @@
 </h2>
 <div align="center">
     <ul style="list-style-position: inside;">
-    <li><strong><a href="https://greenpymind.com">GreenPyMind 🌡️🌱</a></strong></li>
+      <li><strong>GreenPyMind 🌡️🌱</strong></li>
+      <li><strong>Spydio 🖥️🔉</strong></li>
+      <li><strong>ArgosUS🐙🛡️</strong></li>
   </ul>
 </div>
 
 <br/>
 <h2 align="center">Known technologies👨🏻‍💻</h2>
-<!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r,c,cpp,java,django,postgres,html,css,linux,latex,git&perline=12" />
