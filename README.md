@@ -23,7 +23,7 @@
     <ul style="list-style-position: inside;">
       <li><strong>GreenPyMind 🌡️🌱</strong></li>
       <li><strong>Spydio 🖥️🔉</strong></li>
-      <li><strong>ArgosUS🐙🛡️</strong></li>
+      <li><strong>Argos 🐙🛡️</strong></li>
   </ul>
 </div>
 
